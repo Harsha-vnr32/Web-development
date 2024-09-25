@@ -14,34 +14,10 @@ Display products fetched from the Fake Store API.
 Prerequisites
 ###Node.js (for ReactJS setup)
 ###Live Server (for plain HTML/CSS/JS) or any simple HTTP server.
-Steps
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-repo-link
-Navigate to the project directory:
-
-bash
-Copy code
-cd ecommerce-website
-If using ReactJS:
-
-Install dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-Open http://localhost:3000 in your browser to view the app.
-If using plain JavaScript:
-
-Open the index.html file in your browser or use Live Server for auto-updating.
-🛠️ Usage
+#🛠️ Usage
 Once the website is running:
 
-Browse Items: View products fetched from the API.
-Add to Cart: Add items to the shopping cart.
-Manage Cart: Adjust item quantities or remove items from the cart.
+###Browse Items: View products fetched from the API.
+###Add to Cart: Add items to the shopping cart.
+###Manage Cart: Adjust item quantities or remove items from the cart.
